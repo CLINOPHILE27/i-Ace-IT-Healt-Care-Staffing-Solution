@@ -33,6 +33,7 @@ body {
     float:right; 
     color:white;
     font-size:20px;
+    flex-wrap:wrap;
 }
 
 .navbar a {
